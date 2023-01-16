@@ -1,0 +1,29 @@
+.navbar>.container {
+    width: 1400px;
+}
+.navbar .navbar-nav>li a {
+    font-size: 16px;
+}
+.elementor-slick-slider .slick-dots-inside .slick-dots {
+    bottom: 20px;
+}
+body:not(.woocommerce-page) button:not([class^="fl-"]):not(.hestia-scroll-to-top):not(.navbar-toggle):not(.close), body:not(.woocommerce-page) .button:not([class^="fl-"]):not(hestia-scroll-to-top):not(.navbar-toggle):not(.add_to_cart_button), div.wpforms-container .wpforms-form button[type=submit].wpforms-submit, input[type="submit"], input[type="button"], .btn.btn-primary, .widget_product_search button[type="submit"], .hestia-sidebar-open.btn.btn-rose, .hestia-sidebar-close.btn.btn-rose, .everest-forms button[type=submit].everest-forms-submit-button {
+    -webkit-box-shadow: none !important;
+    box-shadow: none !important;
+}
+footer.footer.footer-black {
+    display: none;
+}
+.kboard-pure-gallery-poweredby {
+    display: none;
+}
+
+.kboard-ask-one-poweredby {
+    display: none
+     ;
+}
+
+.kboard-default-poweredby {
+    display: none;
+  
+}
